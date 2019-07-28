@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mcservers/mcservers.github.io/issues"
   },
-  "homepage": "https://mcservers.github.io/"
+  "homepage": "https://mcservers.github.io/",
+  "dependencies": {
+    "css-mint": "^2.0.7"
+  }
 }
