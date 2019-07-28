@@ -1,0 +1,19 @@
+{
+  "name": "mcservers.github.io",
+  "version": "1.0.0",
+  "description": "Assets for mcservers.github.io",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcservers/mcservers.github.io.git"
+  },
+  "author": "Joseph Robinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcservers/mcservers.github.io/issues"
+  },
+  "homepage": "https://mcservers.github.io/"
+}
